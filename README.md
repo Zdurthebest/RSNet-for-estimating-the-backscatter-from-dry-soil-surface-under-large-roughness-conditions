@@ -1,0 +1,1 @@
+# RSNet-for-estimating-the-backscatter-from-dry-soil-surface-under-large-roughness-conditions
