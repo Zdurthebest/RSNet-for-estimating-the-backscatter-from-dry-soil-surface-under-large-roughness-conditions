@@ -23,6 +23,8 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 ###########################################
 #    read radar/surface parameter         #
 #    read backscattering coefficients     #
+#    extract from simulated_dataset.mat   #
+#    or replace your own data here        #
 ###########################################
 r_path = 'radar_data.mat'
 s_path = 'sur_data.mat'
